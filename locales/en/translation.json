@@ -1,0 +1,199 @@
+{
+  "site": {
+    "title": "Master the Art of Authentic Italian Sourdough Baking!",
+    "description": "Online course on Italian sourdough baking from scratch! Learn to make Lievito Madre and Licoli, bake authentic Italian bread, focaccia, brioches, and pizza, and preserve your starter for a long time. +25 bonus recipes for yeast-free desserts and pastries. Video lessons + recipe book — become a master of Italian baking!"
+  },
+  "nav": {
+    "hamburger-label": "Open menu",
+    "main": "Home",
+    "about": "About the Course",
+    "price": "Price",
+    "support": "Support"
+  },
+  "price-card": {
+    "title": "Access: Forever",
+    "desc": "You will receive the entire course (book + video lessons) by email",
+    "buy": "Buy the Course"
+  },
+  "main": {
+    "get-course": "Purchase Course",
+    "hero": {
+      "title": "<0>Course<1></1></0> \"italian sourdough baking\"",
+      "features": [
+        "Recipe book",
+        "Video lessons on sourdough baking",
+        "Additional section with yeast-free desserts and other pastries"
+      ],
+      "more-details": "more details",
+      "book-alt": "Book “Italian Sourdough Baking”"
+    }
+  },
+  "about": {
+    "title": "What awaits you in the course?",
+    "subtitle": "Learn to make healthy yeast-free sourdough baking from scratch — amaze your family and guests!",
+    "card1": {
+      "title": "Lievito Madre and Licoli Starters",
+      "description": "You will master creating two traditional Italian starters: thick Lievito Madre and liquid Licoli — the foundation of authentic Italian baking"
+    },
+    "card2": {
+      "title": "Long-Term Storage and Drying the Starter",
+      "description": "Learn how to properly feed your starter, store it long-term, and even dry it"
+    },
+    "card3": {
+      "title": "Sourdough Baking",
+      "description": "Learn to prepare delicious pastries based on two types of starter! Including: Cinnamon rolls, Apulian-style Focaccia, Wheat bread, Brioche buns, Chocolate babka, Grissini from starter discard, Margherita pizza, Baton, Ciabatta, Burger buns, Crepes from starter discard"
+    },
+    "card4": {
+      "title": "BONUS - Desserts and Other Pastries",
+      "description": "+ 25 bonus recipes for yeast-free desserts and pastries!"
+    },
+    "alt": {
+      "levito": "Lievito Madre Starter",
+      "licoli": "Licoli Starter",
+      "jar": "Starter in a jar",
+      "dried": "Dried starter"
+    },
+    "showMore": "Show more"
+  },
+  "why": {
+    "title": "Why do you need this course?{{- br}} Or how to save years of trial and error",
+    "intro": "<0>Sourdough baking</0> is an art you can spend years learning, making mistakes and wasting kilos of flour. But why take the long road when you can get proven knowledge and start baking confidently and safely from the very beginning?",
+    "guarantee": "In this course, you won’t just get recipes — you’ll get guaranteed success and safety:",
+    "benefits": [
+      {
+        "title": "Save time, money, and nerves",
+        "desc": "Forget about endless sticky \"crepes\" failures, dough that won’t rise, and baked goods that turn out too sour or bland. You’ll receive step-by-step instructions that will guide you to perfect results from the very first attempt — without wasting expensive ingredients."
+      },
+      {
+        "title": "Eliminate health risks",
+        "desc": "Incorrect starter maintenance or recipe errors can lead to mold and harmful bacteria. Eating such bread can cause not only stomach upset but also more serious problems. I provide only recipes and methods tested over the years, which will ensure not only tasty but also absolutely safe bread for your family."
+      },
+      {
+        "title": "Get support and answers to all your questions",
+        "desc": "You won't be left alone with a problem. As part of the course, you can ask me any question and get prompt help to figure it out immediately and move on."
+      },
+      {
+        "title": "Become self-sufficient",
+        "desc": "Learn to feel and understand the starter, so you can improvise and create your own masterpieces."
+      }
+    ]
+  },
+  "details": [
+    { "number": "70+", "desc": "Pages with recipes" },
+    { "number": "10", "desc": "Baking video lessons" },
+    { "number": "50+", "desc": "Positive reviews" },
+    { "number": "100%", "desc": "Result" }
+  ],
+  "advantages": "Our advantages",
+  "contain": {
+    "title": " <0>What's included in the book and video lessons<1/></0> COURSE CONTENT AND COST",
+    "section1": {
+      "title": "Cultivating 2 main types of Italian starters",
+      "ul": [
+        "Wheat liquid starter 100% hydration",
+        "Wheat thick starter 50% hydration Lievito Madre"
+      ]
+    },
+    "section2": {
+      "title": " Sourdough baking recipes + video lessons for each recipe",
+      "subtitle": "With Lievito Madre starter:",
+      "ul": [
+        "Cinnabons",
+        "Apulian-style Focaccia",
+        "Wheat bread",
+        "Brioche buns",
+        "Chocolate babka",
+        "Grissini"
+      ],
+      "subtitle2": "With Licoli starter:",
+      "ul2": ["Margherita pizza", "Baton", "Ciabatta", "Burger buns", "Crepes"],
+      "desc": "All recipes are accompanied by detailed video lessons - you will literally see every stage with your own eyes: how the dough behaves, how to control the process and evaluate the result."
+    },
+    "section3": {
+      "title": "Bonus - desserts and other pastries",
+      "desc": " Additional section with tested recipes for delicious yeast-free desserts and pastries:",
+      "ul": [
+        "Panna Cotta",
+        "Tsvetaevsky apple pie",
+        "Carrot cupcakes",
+        "Caramel",
+        "Sand Braid pie",
+        "Milk crepes",
+        "Cottage cheese pizza",
+        "Profiteroles",
+        "Ossetian pies",
+        "Sponge cake roll",
+        "Nut Shells cookies",
+        "Jam-filled croissants",
+        "Streusel muffins",
+        "Opera cake",
+        "Cottage cheese Easter bread (Kulich)",
+        "Kinder Milk copycat cake slices",
+        "Twix copycat cookies",
+        "Popovers",
+        "Gingerbread cookies",
+        "Mousse trifle “Three Chocolates”",
+        "Sweet braided bread",
+        "Meringue cake",
+        "Orange Matchsticks cookies",
+        "Crepe cake",
+        "Meringue roll"
+      ]
+    }
+  },
+  "questions": {
+    "title": "Still have questions?",
+    "desc": "You can ask any question about the course — both before and after purchase.{{- br}} Just write to the email:"
+  },
+  "tools": {
+    "title": "<0>Tools<1/></0>What will you need to take the course?",
+    "ul": [
+      "Kitchen scales (accuracy up to 1 g)",
+      "Oven (preferably with heating up to 250-300°C)",
+      "Starter container (0.7-1 L) with a lid",
+      "Large bowl (2-3 L) for kneading dough",
+      "Kitchen thermometer",
+      "Parchment paper or baking mat"
+    ]
+  },
+  "join": {
+    "title": "<0>Join - the result is guaranteed<1/></0> Ready to learn how to bake HEALTHY and TASTY?"
+  },
+  "footer": {
+    "course": "Author's course “Italian Sourdough Baking”",
+    "payer": "Payee Svetlana Sergeevna Zabeivorota (Self-Employed) {{- br}} Tax ID (INN) 615311016566",
+    "column1": "Quick Menu",
+    "column2": "Rights",
+    "column3": "Information",
+    "documents-list": [
+      "Public Offer Agreement",
+      "Privacy Policy",
+      "Consent to Personal Data Processing"
+    ],
+    "desclaimer": "When providing services, none of the educational programs provided for by Provision 1k of the Federal Law on Licensing of Educational Activities is implemented.",
+    "help": "Need assistance? Contact us <0>via email.</0>"
+  },
+  "payment-form": {
+    "your-order": "YOUR ORDER:",
+    "course-name": "Course “Italian Sourdough Baking”",
+    "desclaimer": "<0>Please carefully enter your details! After payment, an email with the course materials will be sent to the specified email — check the «Spam» folder if the email is not found in «Inbox».</0><1>If you:</1><2><3>made a mistake in the email address,</3><4>did not receive the email within 24 hours,</4><5>are having trouble completing the payment,</5></2><6>write to us at <7>svetaskitchen@yandex.ru</7>.</6>",
+    "your-name": "Your Name",
+    "phone": "Phone",
+    "oferta": "I agree to the terms of the <0>Public Offer</0>",
+    "policy": "I agree to the <0>Privacy Policy</0> and give my consent to the <1>processing of personal data</1>",
+    "go-payment": "PROCEED TO PAYMENT",
+    "price": "Amount: {{price}}",
+    "oldPrice": "Старая цена",
+    "newPrice": "Текущая цена"
+  },
+  "errors": {
+    "name": "Please enter your name",
+    "phone": "Please enter a valid phone number",
+    "email": "Please enter a valid email",
+    "checkboxes": "Consent is required"
+  },
+  "thanks": {
+    "title": "Thank you for your purchase!",
+    "desc": "Please expect an email within 24 hours at the provided email address."
+  }
+}
